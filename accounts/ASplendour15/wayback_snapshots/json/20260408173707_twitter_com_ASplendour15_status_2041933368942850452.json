@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041856753164496951",
+    "created_at": "2026-04-08T17:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041933368942850452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1071414009025331200",
+          "start": 0,
+          "username": "Arctique4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041933368942850452",
+    "in_reply_to_user_id": "1071414009025331200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041916757393469907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arctique4 如果不是太痛苦的话大概没有人愿意这么做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041856753164496951",
+        "created_at": "2026-04-08T17:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041933368942850452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1071414009025331200",
+              "start": 0,
+              "username": "Arctique4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041933368942850452",
+        "in_reply_to_user_id": "1071414009025331200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041916757393469907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arctique4 如果不是太痛苦的话大概没有人愿意这么做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071414009025331200",
+        "conversation_id": "2041856753164496951",
+        "created_at": "2026-04-08T16:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041916757393469907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041916757393469907",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041856753164496951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 所以坚决反对伤害自己的行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 104,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-08T14:39:40.000Z",
+        "description": "如果你也在寻找yuanxiang82287592。。。",
+        "id": "1071414009025331200",
+        "location": "Mexico, Queensland",
+        "name": "Arctique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039017736416997381/3VEQJHAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 312
+        },
+        "username": "Arctique4",
+        "verified": false
+      }
+    ]
+  }
+}

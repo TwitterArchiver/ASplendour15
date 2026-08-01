@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041092518423753008",
+    "created_at": "2026-04-07T08:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041438915731812454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007465888438706176",
+          "start": 0,
+          "username": "Kakuko42"
+        },
+        {
+          "end": 21,
+          "id": "1892114014563598339",
+          "start": 10,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041438915731812454",
+    "in_reply_to_user_id": "2007465888438706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041437197623050549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakuko42 @3He2_Ka1R0 核子TwT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041092518423753008",
+        "created_at": "2026-04-07T08:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041438915731812454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007465888438706176",
+              "start": 0,
+              "username": "Kakuko42"
+            },
+            {
+              "end": 21,
+              "id": "1892114014563598339",
+              "start": 10,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041438915731812454",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041437197623050549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 @3He2_Ka1R0 核子TwT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007465888438706176",
+        "conversation_id": "2041092518423753008",
+        "created_at": "2026-04-07T08:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041437197623050549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            },
+            {
+              "end": 25,
+              "id": "1892114014563598339",
+              "start": 14,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041437197623050549",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041092518423753008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 @3He2_Ka1R0 小炽...抱抱你..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 76,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 165,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 115
+        },
+        "username": "Kakuko42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  哈莫林镇的吹笛人/ 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "location": "第六病室",
+        "name": "伊万",
+        "pinned_tweet_id": "2035371382541062404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015653470224384/otEG9LSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 467,
+          "like_count": 97975,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 4487
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 165,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Kakuko42",
+        "verified": false
+      }
+    ]
+  }
+}

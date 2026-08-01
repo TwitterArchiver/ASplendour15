@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041161457241583874",
+    "created_at": "2026-04-06T14:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041161457241583874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041161457241583874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好痛…右髋一直在痛左脚的麻木也没有恢复，肺炎也持续影响，关键是。。我哭的时候发现更痛了，我甚至不能深吸气，之前cpr造成的损伤\n全部，全部，叠加在我身上\n我的记忆也很混乱和碎片化，我甚至回忆不起当天发生的事情\n……没有解法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041161457241583874",
+        "created_at": "2026-04-06T14:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041161457241583874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041161457241583874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好痛…右髋一直在痛左脚的麻木也没有恢复，肺炎也持续影响，关键是。。我哭的时候发现更痛了，我甚至不能深吸气，之前cpr造成的损伤\n全部，全部，叠加在我身上\n我的记忆也很混乱和碎片化，我甚至回忆不起当天发生的事情\n……没有解法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "",
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 58,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

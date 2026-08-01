@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041109853402439680"
+      ],
+      "media_source_tweet_id": [
+        "2041109859824021624"
+      ]
+    },
+    "author_id": "1935420089186336768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041568090279055377",
+    "created_at": "2026-04-07T17:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041568090279055377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821004052395913219",
+          "start": 3,
+          "username": "0__11Xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9u40jZATsQ",
+          "end": 36,
+          "expanded_url": "https://x.com/0__11Xx/status/2041109859824021624/photo/1",
+          "media_key": "3_2041109853402439680",
+          "start": 13,
+          "url": "https://t.co/9u40jZATsQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041568090279055377",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041109859824021624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0__11Xx: https://t.co/9u40jZATsQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2041109853402439680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN6mO-aIAAdILf.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041109853402439680"
+          ],
+          "media_source_tweet_id": [
+            "2041109859824021624"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041568090279055377",
+        "created_at": "2026-04-07T17:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041568090279055377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821004052395913219",
+              "start": 3,
+              "username": "0__11Xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9u40jZATsQ",
+              "end": 36,
+              "expanded_url": "https://x.com/0__11Xx/status/2041109859824021624/photo/1",
+              "media_key": "3_2041109853402439680",
+              "start": 13,
+              "url": "https://t.co/9u40jZATsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041568090279055377",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041109859824021624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0__11Xx: https://t.co/9u40jZATsQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041109853402439680"
+          ]
+        },
+        "author_id": "1821004052395913219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041109859824021624",
+        "created_at": "2026-04-06T11:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041109859824021624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9u40jZATsQ",
+              "end": 23,
+              "expanded_url": "https://x.com/0__11Xx/status/2041109859824021624/photo/1",
+              "media_key": "3_2041109853402439680",
+              "start": 0,
+              "url": "https://t.co/9u40jZATsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041109859824021624",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 15819,
+          "like_count": 1408,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9u40jZATsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 90,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 101
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:03:05.000Z",
+        "description": "夢と現の狭間で青に溺れる。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/011Xx",
+                "end": 23,
+                "expanded_url": "https://lit.link/011Xx",
+                "start": 0,
+                "url": "https://t.co/pydlonnJMB"
+              }
+            ]
+          }
+        },
+        "id": "1821004052395913219",
+        "location": "Gen Ai #niji journey",
+        "name": "夢鬱つ",
+        "pinned_tweet_id": "2004196833216840137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857265300506640384/R4AjuVu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157243,
+          "following_count": 66,
+          "like_count": 657,
+          "listed_count": 874,
+          "media_count": 1421,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/pydlonnJMB",
+        "username": "0__11Xx",
+        "verified": true
+      }
+    ]
+  }
+}

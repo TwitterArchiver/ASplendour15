@@ -1,0 +1,20 @@
+{
+  "name": "炽烈已极 到此为止吧。",
+  "username": "@ASplendour15",
+  "bio": "前世@AnIncandescence 我会一直恨平台不公的判决和举报的人…",
+  "location": "夜航忒修斯",
+  "link": "https://ngl.link/anincandescence1",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 18,
+        "start": 2,
+        "username": "AnIncandescence"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg"
+}

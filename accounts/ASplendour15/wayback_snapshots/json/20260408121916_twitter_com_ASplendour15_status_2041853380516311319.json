@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041499364275958067",
+    "created_at": "2026-04-08T12:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041853380516311319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041853380516311319",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041852921873367255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 主播女孩重度依赖出动画了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041499364275958067",
+        "created_at": "2026-04-08T12:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041853380516311319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041853380516311319",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041852921873367255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 主播女孩重度依赖出动画了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619698674917068801",
+        "conversation_id": "2041499364275958067",
+        "created_at": "2026-04-08T12:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041852921873367255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041852921873367255",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041499364275958067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 这是什么番 超天酱小剧场吗。."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 100,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 109
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UE虚幻引擎地形编辑师（正在学习）（接单 私）｜05｜艺术｜形而上｜理想国｜身外的世界总是模糊的…",
+        "id": "1619698674917068801",
+        "location": "NewMap",
+        "name": "mono氚",
+        "pinned_tweet_id": "1985005921110806672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 143,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 369
+        },
+        "username": "InfiniteTritium",
+        "verified": false
+      }
+    ]
+  }
+}

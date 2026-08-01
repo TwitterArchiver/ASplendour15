@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041499356650729472"
+      ]
+    },
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041499364275958067",
+    "created_at": "2026-04-07T12:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041499364275958067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3yNg1KazyH",
+          "end": 162,
+          "expanded_url": "https://x.com/ASplendour15/status/2041499364275958067/photo/1",
+          "media_key": "3_2041499356650729472",
+          "start": 139,
+          "url": "https://t.co/3yNg1KazyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041499364275958067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我觉得……挺喜欢的。要是没有新角色的话就更好了\n真的很喜欢意识流电波系的这些作品啊，虽然这集分镜切的很碎，但我感觉是刻意为之。\n采访超天酱的那一段很像eva剧场版接近结尾那的表现形式，整个剧中也有很多致敬（？）\n\n其实没那么差吧就是说……看到了很多骂声，至此艺术完成了—— https://t.co/3yNg1KazyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2041499356650729472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTc2Tpa8AAW3zu.jpg",
+        "width": 2123
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041499356650729472"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041499364275958067",
+        "created_at": "2026-04-07T12:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041499364275958067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yNg1KazyH",
+              "end": 162,
+              "expanded_url": "https://x.com/ASplendour15/status/2041499364275958067/photo/1",
+              "media_key": "3_2041499356650729472",
+              "start": 139,
+              "url": "https://t.co/3yNg1KazyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041499364275958067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得……挺喜欢的。要是没有新角色的话就更好了\n真的很喜欢意识流电波系的这些作品啊，虽然这集分镜切的很碎，但我感觉是刻意为之。\n采访超天酱的那一段很像eva剧场版接近结尾那的表现形式，整个剧中也有很多致敬（？）\n\n其实没那么差吧就是说……看到了很多骂声，至此艺术完成了—— https://t.co/3yNg1KazyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 81,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 86
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010301957639168000"
+      ]
+    },
+    "author_id": "1935420089186336768",
+    "conversation_id": "2010301965461553358",
+    "created_at": "2026-01-11T10:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T11:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010301965461553358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tFi878s9kr",
+          "end": 51,
+          "expanded_url": "https://x.com/ASplendour15/status/2010301965461553358/photo/1",
+          "media_key": "3_2010301957639168000",
+          "start": 28,
+          "url": "https://t.co/tFi878s9kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010301965461553358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乐 gem你文风好特别，华丽的类比...而且回复好长！ https://t.co/tFi878s9kr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2010301957639168000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YG-rxa4AAEaS4.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010301957639168000"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2010301965461553358",
+        "created_at": "2026-01-11T10:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010301965461553358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFi878s9kr",
+              "end": 51,
+              "expanded_url": "https://x.com/ASplendour15/status/2010301965461553358/photo/1",
+              "media_key": "3_2010301957639168000",
+              "start": 28,
+              "url": "https://t.co/tFi878s9kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010301965461553358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乐 gem你文风好特别，华丽的类比...而且回复好长！ https://t.co/tFi878s9kr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。”",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998838374023770112/tHdRqI-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 49,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

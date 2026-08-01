@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041849836094550157",
+    "created_at": "2026-04-09T10:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042190991134965772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920893752446775298",
+          "start": 0,
+          "username": "Cinderella_zb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042190991134965772",
+    "in_reply_to_user_id": "1920893752446775298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042189035146461262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cinderella_zb 欸？为什么又看到人这么说了…在哪里流传开来了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041849836094550157",
+        "created_at": "2026-04-09T10:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042190991134965772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920893752446775298",
+              "start": 0,
+              "username": "Cinderella_zb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042190991134965772",
+        "in_reply_to_user_id": "1920893752446775298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042189035146461262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cinderella_zb 欸？为什么又看到人这么说了…在哪里流传开来了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920893752446775298",
+        "conversation_id": "2041849836094550157",
+        "created_at": "2026-04-09T10:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042189035146461262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042189035146461262",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041849836094550157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 原来是您的作品……！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 107,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T17:29:07.000Z",
+        "description": "＝阿幸｜抑郁焦虑ed｜这里是牢骚大思考性幻想堆积处｜不知道怎么说，恨自己的同时应该很多人一起恨我，但是这里是网络，你把我拉黑后我就死了，所以善用拉黑谢谢喵",
+        "id": "1920893752446775298",
+        "name": "魔法啊停下时间吧",
+        "pinned_tweet_id": "1921695022094672125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035418481202692096/hwSU-Q-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 41,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "username": "Cinderella_zb",
+        "verified": false
+      }
+    ]
+  }
+}

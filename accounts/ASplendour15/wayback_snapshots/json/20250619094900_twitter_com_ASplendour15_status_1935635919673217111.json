@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492285276420333568",
+          "name": "3D modeling"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      }
+    ],
+    "conversation_id": "1935635919673217111",
+    "created_at": "2025-06-19T09:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T10:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935635919673217111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/748cm/status/1…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/748cm/status/1934825954343588056",
+          "start": 23,
+          "url": "https://t.co/AtFd0piZeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935635919673217111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934825954343588056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "循环了好多遍也没分清是3d还是2d，太好看😭 https://t.co/AtFd0piZeV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5208,
+        "height": 720,
+        "media_key": "13_1934801998270091264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934801998270091264/img/qRvBKFJbkHw3ahD8.jpg",
+        "public_metrics": {
+          "view_count": 3002
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/320x422/9EL1JtEGSvx4wCyj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/480x634/TqMUtixRvKaNyeiC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/544x720/8mUPDlWiu7ZpGa1I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/pl/CH85jWOYhTTDVJGC.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1935635919673217111",
+        "created_at": "2025-06-19T09:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935635919673217111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/748cm/status/1…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/748cm/status/1934825954343588056",
+              "start": 23,
+              "url": "https://t.co/AtFd0piZeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935635919673217111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934825954343588056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "循环了好多遍也没分清是3d还是2d，太好看😭 https://t.co/AtFd0piZeV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934801998270091264"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "1934825954343588056",
+        "created_at": "2025-06-17T04:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934825954343588056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "nijijourney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/daQXbZsgKa",
+              "end": 78,
+              "expanded_url": "https://x.com/748cm/status/1934825954343588056/video/1",
+              "media_key": "13_1934801998270091264",
+              "start": 55,
+              "url": "https://t.co/daQXbZsgKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934825954343588056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 22087,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "Smokin More and More.\n\n#nijijourney \nniji journey動画モデル https://t.co/daQXbZsgKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。” 互关寻回",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426320374079488/DwiKKkPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "Malice🎀| 鬱 x エモ / AI illustration / 夏の夜の匂いに胸が焼かれる / ご依頼はDMで🧸🔪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 23,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMTEAAafcer0oY_77rVDK561knTG8HeU-8d4MAnWDMPaRaixtP-lziz0",
+                "start": 0,
+                "url": "https://t.co/yJRMpThVHE"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "1934825954343588056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104803,
+          "following_count": 207,
+          "like_count": 15660,
+          "listed_count": 543,
+          "media_count": 3420,
+          "tweet_count": 11825
+        },
+        "url": "https://t.co/yJRMpThVHE",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

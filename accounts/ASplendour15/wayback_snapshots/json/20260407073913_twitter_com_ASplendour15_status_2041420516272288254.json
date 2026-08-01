@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "1935433862676377611",
+    "created_at": "2026-04-07T07:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041420516272288254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533269224952680448",
+          "start": 0,
+          "username": "Kevin33550337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041420516272288254",
+    "in_reply_to_user_id": "1533269224952680448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041416353115189653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin33550337 1.痛苦的终结 一切的终结。可以休息了。\n2.这是我梦寐以求的，就算只是想象我也感觉得到了些许慰籍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "1935433862676377611",
+        "created_at": "2026-04-07T07:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041420516272288254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533269224952680448",
+              "start": 0,
+              "username": "Kevin33550337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041420516272288254",
+        "in_reply_to_user_id": "1533269224952680448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041416353115189653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin33550337 1.痛苦的终结 一切的终结。可以休息了。\n2.这是我梦寐以求的，就算只是想象我也感觉得到了些许慰籍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533269224952680448",
+        "conversation_id": "1935433862676377611",
+        "created_at": "2026-04-07T07:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041416353115189653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041416353115189653",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041398211978670264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 1.对你而言，“死亡”是什么？\n2.当你思考“此时此刻正在思考的‘我’将会死去，‘我’将不复存在”时，会有什么感觉？\n麻烦你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 74,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T02:07:44.000Z",
+        "description": "历经千帆魂归处 梦醒依旧是少年",
+        "id": "1533269224952680448",
+        "name": "Kevin Khaslana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003177155614932992/jQjdKDD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 479
+        },
+        "username": "Kevin33550337",
+        "verified": false
+      }
+    ]
+  }
+}

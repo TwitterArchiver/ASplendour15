@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2038125167025561718",
+    "created_at": "2026-03-29T05:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038125167025561718"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038125167025561718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次真正拥有自己的声音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2038125167025561718",
+        "created_at": "2026-03-29T05:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038125167025561718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038125167025561718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次真正拥有自己的声音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。”",
+        "id": "1935420089186336768",
+        "name": "封闭的共同轨道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038121701863559168/IH8x1Uya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 47,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936568927003262976"
+      ]
+    },
+    "author_id": "1935420089186336768",
+    "conversation_id": "1936568935429652865",
+    "created_at": "2025-06-21T23:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T00:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936568935429652865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKURpk5uu5",
+          "end": 114,
+          "expanded_url": "https://x.com/ASplendour15/status/1936568935429652865/photo/1",
+          "media_key": "3_1936568927003262976",
+          "start": 91,
+          "url": "https://t.co/GKURpk5uu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936568935429652865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上我黑名单吧这款，不知道哪个角落翻出来的，纯正的nac风味，尝不出任何修饰。。那我为什么不去吃胶囊然后把这半杯水喝了呢\n以前那个牌子的泡腾片味道好多了，喝起来像淡淡的有点没气的汽水 https://t.co/GKURpk5uu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1936568927003262976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuATLcEWwAAJYz2.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936568927003262976"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "1936568935429652865",
+        "created_at": "2025-06-21T23:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T00:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936568935429652865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKURpk5uu5",
+              "end": 114,
+              "expanded_url": "https://x.com/ASplendour15/status/1936568935429652865/photo/1",
+              "media_key": "3_1936568927003262976",
+              "start": 91,
+              "url": "https://t.co/GKURpk5uu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936568935429652865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上我黑名单吧这款，不知道哪个角落翻出来的，纯正的nac风味，尝不出任何修饰。。那我为什么不去吃胶囊然后把这半杯水喝了呢\n以前那个牌子的泡腾片味道好多了，喝起来像淡淡的有点没气的汽水 https://t.co/GKURpk5uu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。” 互关寻回",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426320374079488/DwiKKkPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 42,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

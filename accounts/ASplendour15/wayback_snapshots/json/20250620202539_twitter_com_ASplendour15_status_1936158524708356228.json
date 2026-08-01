@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "1936132137037840443",
+    "created_at": "2025-06-20T20:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T21:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936158524708356228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936158524708356228",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936132137037840443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 比起说没有理解问题..其实应该是出发点不同，观察视角不同自然会得出不一样的结论w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "1936132137037840443",
+        "created_at": "2025-06-20T20:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936158524708356228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936158524708356228",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936132137037840443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 比起说没有理解问题..其实应该是出发点不同，观察视角不同自然会得出不一样的结论w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1936132137037840443",
+        "created_at": "2025-06-20T18:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T19:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936132137037840443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936132137037840443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和朋友互相不认可对方观点，就这么嗯聊了几个小时双方也觉得很有趣。我们的分歧不只是事实判断和价值取向的分歧，而是真理观和审美本质的争议，而且互相都认为对方没有理解问题。他持怀疑论和非认知主义的立场，我则是实用主义和弱认知主义（当然都是模糊的）。\n\n我觉得这是尊重、包容和真诚的魔法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。” 互关寻回",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426320374079488/DwiKKkPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 40,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。\n互fo私信就可以了喔。",
+        "id": "1744320870800379904",
+        "name": "Mephylath-KIWI",
+        "pinned_tweet_id": "1918543024587768099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931632967790862336/6MzOke52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 130,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 760
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

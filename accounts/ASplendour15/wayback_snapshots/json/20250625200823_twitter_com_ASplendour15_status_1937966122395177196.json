@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "1937916973788328353",
+    "created_at": "2025-06-25T20:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T21:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937966122395177196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937966122395177196",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937916973788328353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 4，但不是爱人..是很重要的人\n那些物质你最终倒掉冲走真是太好了，没有让我..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_1937916962824486912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTdNc1bgAAkJn9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "1937916973788328353",
+        "created_at": "2025-06-25T20:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T21:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937966122395177196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937966122395177196",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937916973788328353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 4，但不是爱人..是很重要的人\n那些物质你最终倒掉冲走真是太好了，没有让我..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937916962824486912"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1937916973788328353",
+        "created_at": "2025-06-25T16:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937916973788328353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tekkz7qUaP",
+              "end": 30,
+              "expanded_url": "https://x.com/04177_realname/status/1937916973788328353/photo/1",
+              "media_key": "3_1937916962824486912",
+              "start": 7,
+              "url": "https://t.co/Tekkz7qUaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937916973788328353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1324,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你是哪种呢？ https://t.co/Tekkz7qUaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。” 互关寻回",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426320374079488/DwiKKkPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 43,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10847,
+          "following_count": 6135,
+          "like_count": 62396,
+          "listed_count": 31,
+          "media_count": 2352,
+          "tweet_count": 17680
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

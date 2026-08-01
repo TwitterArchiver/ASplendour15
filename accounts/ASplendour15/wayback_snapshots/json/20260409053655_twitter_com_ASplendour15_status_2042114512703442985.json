@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2042092790964953577",
+    "created_at": "2026-04-09T05:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042114512703442985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533269224952680448",
+          "start": 0,
+          "username": "Kevin33550337"
+        },
+        {
+          "end": 29,
+          "id": "1808933044545630208",
+          "start": 15,
+          "username": "TauCeti_10700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042114512703442985",
+    "in_reply_to_user_id": "1533269224952680448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042102206233767981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin33550337 @TauCeti_10700 救命……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2042092790964953577",
+        "created_at": "2026-04-09T05:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042114512703442985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533269224952680448",
+              "start": 0,
+              "username": "Kevin33550337"
+            },
+            {
+              "end": 29,
+              "id": "1808933044545630208",
+              "start": 15,
+              "username": "TauCeti_10700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042114512703442985",
+        "in_reply_to_user_id": "1533269224952680448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042102206233767981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin33550337 @TauCeti_10700 救命……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533269224952680448",
+        "conversation_id": "2042092790964953577",
+        "created_at": "2026-04-09T04:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042102206233767981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042102206233767981",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042096124455219633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 很多人追求的并不是对于其他个体真正的理解与尊重，而是一种“道德清白感”。用傲慢的姿态说出“生活会好起来的”“一切都会过去的”，于是他们便拿到了“赎罪劵”，即便未来再次面对，他们也可以坦然的说：“我挽留过了。”\n这种姿态着实让人作呕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 104,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T02:07:44.000Z",
+        "description": "历经千帆魂归处 梦醒依旧是少年",
+        "id": "1533269224952680448",
+        "name": "Kevin Khaslana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003177155614932992/jQjdKDD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 488
+        },
+        "username": "Kevin33550337",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "pinned_tweet_id": "1821931308840325602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 69,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 574
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      }
+    ]
+  }
+}

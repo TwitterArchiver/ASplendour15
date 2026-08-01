@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041106929465135163",
+    "created_at": "2026-04-07T06:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041397910513090620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041397910513090620",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041343206294782096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 我已经试过这个了，目前为止还没有回应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041106929465135163",
+        "created_at": "2026-04-07T06:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041397910513090620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041397910513090620",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041343206294782096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 我已经试过这个了，目前为止还没有回应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041106929465135163",
+        "created_at": "2026-04-07T02:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041343206294782096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "help.twitter.com/forms/privacy",
+              "end": 70,
+              "expanded_url": "https://help.twitter.com/forms/privacy",
+              "images": [
+                {
+                  "height": 403,
+                  "url": "https://pbs.twimg.com/news_img/2041343207347482624/PZLhlTUa?format=png&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041343207347482624/PZLhlTUa?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "Privacy",
+              "unwound_url": "https://help.x.com/en/forms/privacy",
+              "url": "https://t.co/LwwHIQtkfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041343206294782096",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041106929465135163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 Grok说的 或许可以试一下QwQ\n\n去这个隐私请求表单提交申请：https://t.co/LwwHIQtkfY （或在X帮助中心搜索“suspended accounts”找到链接）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 73,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 65
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻 ｜AM&CS&EE｜某司高管(逃)｜ 意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜做教育学科研还能画电路板子的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039052513966800896/uHTGw-bW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7352,
+          "following_count": 1098,
+          "like_count": 86424,
+          "listed_count": 21,
+          "media_count": 2167,
+          "tweet_count": 25967
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

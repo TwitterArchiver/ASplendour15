@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041535209913602521",
+    "created_at": "2026-04-07T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041549009752572354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667423809148981248",
+          "start": 0,
+          "username": "2FlameCubed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041549009752572354",
+    "in_reply_to_user_id": "1667423809148981248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041548574710960253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2FlameCubed 我吃的阿莫西林克拉维酸钾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041535209913602521",
+        "created_at": "2026-04-07T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041549009752572354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667423809148981248",
+              "start": 0,
+              "username": "2FlameCubed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041549009752572354",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041548574710960253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2FlameCubed 我吃的阿莫西林克拉维酸钾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2041535209913602521",
+        "created_at": "2026-04-07T16:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041548574710960253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041548574710960253",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041547398275854410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 搞点抗生素吧，比如莫西沙星？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 88,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 99
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 793,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 128
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      }
+    ]
+  }
+}

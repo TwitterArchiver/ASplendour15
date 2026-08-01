@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "1998836220105994615",
+    "created_at": "2025-12-10T19:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T20:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998836220105994615"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998836220105994615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "如果有一天我消失，能为我发讣告的大概只有一个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "1998836220105994615",
+        "created_at": "2025-12-10T19:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T20:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998836220105994615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998836220105994615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "如果有一天我消失，能为我发讣告的大概只有一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。” 互关寻回",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426320374079488/DwiKKkPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

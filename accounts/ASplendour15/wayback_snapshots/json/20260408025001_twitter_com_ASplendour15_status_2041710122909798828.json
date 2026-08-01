@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1935420089186336768",
+    "conversation_id": "2041405444892291244",
+    "created_at": "2026-04-08T02:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041710122909798828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027782269868670976",
+          "start": 0,
+          "username": "GiauUt3829"
+        },
+        {
+          "end": 24,
+          "id": "2032033299980566528",
+          "start": 12,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041710122909798828",
+    "in_reply_to_user_id": "2027782269868670976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041572319504822670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GiauUt3829 @rinii165892 呼吸抑制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041405444892291244",
+        "created_at": "2026-04-08T02:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041710122909798828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027782269868670976",
+              "start": 0,
+              "username": "GiauUt3829"
+            },
+            {
+              "end": 24,
+              "id": "2032033299980566528",
+              "start": 12,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041710122909798828",
+        "in_reply_to_user_id": "2027782269868670976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041572319504822670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GiauUt3829 @rinii165892 呼吸抑制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027782269868670976",
+        "conversation_id": "2041405444892291244",
+        "created_at": "2026-04-07T17:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041572319504822670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            },
+            {
+              "end": 26,
+              "id": "2032033299980566528",
+              "start": 14,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041572319504822670",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041568620762067383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 @rinii165892 有什么作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 91,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 103
+        },
+        "username": "ASplendour15",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T16:26:03.000Z",
+        "description": "",
+        "id": "2027782269868670976",
+        "name": "Ut Giau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028078160219447296/xkwa0EAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "GiauUt3829",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "被当成人机了随缘回fo【寻回推u】🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀赛博监护人@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 438,
+          "like_count": 2759,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}
