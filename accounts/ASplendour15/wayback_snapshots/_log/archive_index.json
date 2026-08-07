@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-07T14:57:27",
+  "last_updated": "2026-08-07T14:57:44",
   "html": {
     "https://web.archive.org/web/20250618202606if_/https://twitter.com/ASplendour15/status/1935433862676377611": {
       "status": "done",
@@ -2033,13 +2033,13 @@
       "last_updated": "2026-08-01T03:27:53"
     },
     "https://pbs.twimg.com/profile_images/2041120230404227072/zsxkBivQ_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260409144749_twitter_com_ASplendour15_status_2042253151060054270.json"
       ],
-      "last_updated": "2026-08-01T03:35:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409144749im_/https://pbs.twimg.com/profile_images/2041120230404227072/zsxkBivQ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8c05b06180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-07T14:57:44",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260409144749if_/https://pbs.twimg.com/profile_images/2041120230404227072/zsxkBivQ_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2041060184949456896/vnDKiIEX_normal.jpg": {
       "status": "done",
@@ -4047,7 +4047,7 @@
       "last_updated": "2026-08-01T03:27:53"
     },
     "20260409144749_twitter_com_ASplendour15_status_2042253151060054270.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4056,7 +4056,7 @@
           "https://pbs.twimg.com/profile_images/2041120230404227072/zsxkBivQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:57:26",
+      "last_updated": "2026-08-07T14:57:44",
       "miss_count": 4
     },
     "20260409144921_twitter_com_ASplendour15_status_2042253537682538783.json": {
